@@ -17,3 +17,7 @@ target/
 
 # OS
 .DS_Store
+
+.idea/
+*.iml
+**/target/
